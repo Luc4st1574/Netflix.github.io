@@ -1,4 +1,8 @@
-#Netflix
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block; color: red">NetfliX<span style="color: blue">CLONE</span></h1></summary>
+  </ul>
+</div>
 
 <p align="center">
   <img src="https://github.com/Luc4st1574/Netflix.github.io/blob/main/img/Netflix_logo.png" alt="Banner">
