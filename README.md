@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block; color: red">NETFLI X<span style="color: blue">CLONE</span></h1></summary>
+    <summary><h1 style="display: inline-block; color: red">NETFLIX <span style="color: blue">CLONE</span></h1></summary>
   </ul>
 </div>
 
